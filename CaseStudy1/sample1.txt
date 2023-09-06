@@ -1,1 +1,2 @@
 Case Study 1 - Action b - Sample 1
+Merging Branch to Master Sample 1
